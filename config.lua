@@ -58,7 +58,7 @@ Config.Commands = {
 
 Config.EachSpawn = true -- If true, the player will get information if refund is available on each spawn
 
-Config.Webhook = "https://discord.com/api/webhooks/1125782545263497236/nauaf1iQwnpG4pRB6b_t9KLbgMPtdZZnIDp8BEblQM8OD6iLo3s37fy0DoPXykkgQEOm"
+Config.Webhook = "YOUR_WEBHOOK"
 
 notify = function(source, msg)
     TriggerClientEvent('esx:showNotification', source, msg)
