@@ -17,6 +17,7 @@ AddEventHandler('playerSpawned', function(spawn)
     end
 end)
 
+-- The refund chat suggestions, change this to your own language
 TriggerEvent('chat:addSuggestion', '/' .. "refund", "Geef een speler een refund", {
             { name="steam:xxxxxxxxxxxxxxx", help= "Speler zijn steam id" },
             { name="item type", help = "item, money, bank, black_money, weapon" },
