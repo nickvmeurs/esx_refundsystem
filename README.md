@@ -1,10 +1,8 @@
 # refundsystem
   ==== Refund System - byK3#7147 ====
 
-    Refund System for ESX to refund items, money, bank, black_money and weapons to players while they are offline/online
-    Made by byK#7147
-
-    Contact me on Discord if you have any questions or suggestions
+Remake of the refund system from byK3#7147, remade by nick.vm.
+Whats different? i added logs to every action with the sentodiscord function he embedded, all the actions are in dutch so keep that in mind you might need to change the language of your chat messages and logs.
 
 
 
@@ -14,6 +12,7 @@
     2. Add the webhook to the config.lua
     3. Add the permissions to the config.lua
     4. Add the commands to the config.lua
+    5. Change the logs and chat notifications to your own messages
 
 
     Current supported types: item, money, bank, black_money, weapon
