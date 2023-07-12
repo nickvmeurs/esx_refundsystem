@@ -4,7 +4,12 @@
 Remake of the refund system from byK3#7147, remade by nick.vm.
 Whats different? i added logs to every action with the sentodiscord function he embedded, all the actions are in dutch so keep that in mind you might need to change the language of your chat messages and logs.
 
+![image](https://github.com/nickvmeurs/esx_refundsystem/assets/97262293/f0e89f40-354f-4786-a300-f2a1834b93d2)
+![image](https://github.com/nickvmeurs/esx_refundsystem/assets/97262293/7559aecb-1c82-433f-a900-3093dd299752)
+![image](https://github.com/nickvmeurs/esx_refundsystem/assets/97262293/693a56e3-8da5-41b8-bf79-636c15ea2b89)
+![image](https://github.com/nickvmeurs/esx_refundsystem/assets/97262293/294ee702-133f-4009-981e-20c3f81733c6)
 
+![image](https://github.com/nickvmeurs/esx_refundsystem/assets/97262293/12447e90-74ab-4f24-a93b-d59c77984110)
 
   === INSTRUCATION === 
 
