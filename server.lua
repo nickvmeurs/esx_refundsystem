@@ -7,7 +7,7 @@ AddEventHandler('onResourceStart', function(resourceName)
         return
     end
     loadDatabase()
-    SendToDiscord(65280, '**REFUND SYSTEM**', 'Refund System started - file loaded')
+    --SendToDiscord(65280, '**REFUND SYSTEM**', 'Refund System started - file loaded')
 end)
 
 list = {}
